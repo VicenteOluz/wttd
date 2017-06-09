@@ -13,4 +13,7 @@ class HomeTest(TestCase):
            """ Must use index.htnl"""
            self.assertTemplateUsed(self.response, 'index.html')
 
-# Create your tests here.
+       def test_subscription_link(self):
+           self.assertContains(self.response, 'href="/inscricao/"')
+
+
