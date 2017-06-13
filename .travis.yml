@@ -2,7 +2,7 @@ language: python
 python:
   - "3.5"
 install:
-  - cp /contib/env-sample .env
+  - cp contrib/env-sample .env
   - pip instal -p -r requirements.txt
 script:
   - python manage.py test

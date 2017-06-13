@@ -1,4 +1,5 @@
 # Eventex
+[![Build Status](https://travis-ci.org/VicenteOluz/wttd.svg?branch=master)](https://travis-ci.org/VicenteOluz/wttd)
 
 Sistema de Eventos solicitado pelo Welcome Django
 
