@@ -25,7 +25,7 @@ def create(request):
                'subscriptions/subscription_email.txt',
                form.cleaned_data)
 
-    messages.success(request, 'Inscrição realizada com sucesso!')
+    messages.success(request, 'Inscrição Realizada com Sucesso!')
 
     return HttpResponseRedirect('/inscricao/')
 
