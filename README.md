@@ -2,10 +2,6 @@
 
 Sistema de Eventos solicitado pelo Welcome Django
 
-
-[![Build Status](https://travis-ci.org/VicenteOluz/wttd.svg?branch=master)](https://travis-ci.org/VicenteOluz/wttd)
-[![Code Health](https://landscape.io/github/VicenteOluz/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/VicenteOluz/wttd/master)
-
 ## como desevolver?
 
 1. Clone o repositorio.
